@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonel!</h1>
 <h2 align="center">I'm a Remote Software Engineer from the Dominican Republic :sunny: :palm_tree:</h2> <h3 align="center">.NET | Javascript | TypeScript enthusiast!</h3>
-<p align="left"> <img src="https://visitors.vercel.app/leonelsantiago/visitors.vercel.app" alt="leonelsantiago" /> </p>
 
 - 🔭 I’m currently working on [Quantum IT Solutions](https://www.quantumitsolutions.net/) for the [HST FOH](https://www.horizonsoftware.com/front-of-house/) project
 

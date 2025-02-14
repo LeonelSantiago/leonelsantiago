@@ -7,9 +7,6 @@
 
 - ⚡ Fun fact **I love sports :baseball: :basketball:**
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=leonelsantiago&show_icons=true" alt="leonelsantiago" />
-</p>
 <p align="center">
 <a href="https://dev.to/https://dev.to/leonelsantiago" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/leonelsantiago" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonelsantiago/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/leonelsantiago/" height="20" width="20" /></a>
